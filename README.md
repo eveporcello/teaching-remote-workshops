@@ -19,6 +19,10 @@ Welcome! I'm really glad that you're here. Below you'll find all of the resource
 - [Creating Code Profiles in VSCode](https://dev.to/jsjoeio/how-to-create-code-profiles-in-vscode-3ofo)
 - [Screencast Workshop](https://egghead.io/courses/record-badass-screencasts-for-egghead-io)
 
+### Mid-class Evaluation
+
+* [Mid-Class Eval](https://forms.gle/WcBmmFL1qBAnAocj7)
+
 ### Polling Tools
 
 * [Polly in Slack](https://www.polly.ai/help/slack/creating-polls)
