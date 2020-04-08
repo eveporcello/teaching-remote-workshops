@@ -18,3 +18,18 @@ Welcome! I'm really glad that you're here. Below you'll find all of the resource
 - [VSCode Teaching Settings](https://github.com/eveporcello/teaching-remote-workshops/blob/master/vscode-settings.json)
 - [Creating Code Profiles in VSCode](https://dev.to/jsjoeio/how-to-create-code-profiles-in-vscode-3ofo)
 - [Screencast Workshop](https://egghead.io/courses/record-badass-screencasts-for-egghead-io)
+
+### Polling Tools
+
+* [Polly in Slack](https://www.polly.ai/help/slack/creating-polls)
+* [Polly for Microsoft Teams](https://www.polly.ai/microsoft-teams)
+* [Poll Everywhere](https://www.polleverywhere.com/)
+
+### Whiteboard Tools & Drawing Resources
+
+* [Explain Everything](https://explaineverything.com/online-whiteboard/)
+* [Ziteboard](https://ziteboard.com/)
+* [Adobe Photoshop Sketch](https://apps.apple.com/us/app/adobe-photoshop-sketch/id839085644)
+* [Procreate](https://procreate.art/)
+* [Maggie Appleton.com](https://maggieappleton.com/)
+* [Sketching & Logo Creation Show](https://www.youtube.com/watch?v=4mrrNAjiTvk)
