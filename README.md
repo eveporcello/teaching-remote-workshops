@@ -31,5 +31,5 @@ Welcome! I'm really glad that you're here. Below you'll find all of the resource
 * [Ziteboard](https://ziteboard.com/)
 * [Adobe Photoshop Sketch](https://apps.apple.com/us/app/adobe-photoshop-sketch/id839085644)
 * [Procreate](https://procreate.art/)
-* [Maggie Appleton.com](https://maggieappleton.com/)
+* [MaggieAppleton.com](https://maggieappleton.com/)
 * [Sketching & Logo Creation Show](https://www.youtube.com/watch?v=4mrrNAjiTvk)
